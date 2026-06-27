@@ -1,5 +1,5 @@
 # X1-hackpad-
-Hi, I'm Riyad and this is my project.thanks a lot to Hardik and also thanks to hackpad
+Hi, I'm Riyad and this is my project.
 this is the base <img width="978" height="515" alt="bottom" src="https://github.com/user-attachments/assets/128d80a1-6d91-4e0c-be1f-287132439027" />
 this is the pcb<img width="1172" height="750" alt="pcb" src="https://github.com/user-attachments/assets/f8da3076-1da4-4ae4-9c31-1cac513f8487" />
 here is the schematics<img width="1312" height="780" alt="schematics" src="https://github.com/user-attachments/assets/25b0f9d2-38e7-4a11-85fc-960b0e98a3e7" />
